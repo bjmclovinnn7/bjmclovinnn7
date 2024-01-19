@@ -1,4 +1,4 @@
-👋 Hi, I’m Blake! 
+Hi, I’m Blake!👋 
 
 I am nearly a year into my coding journey and it has been a blast to say the least! On top of working a full time job, most of my days are spent about computer programming, algorithms, and working on side projects!
   
