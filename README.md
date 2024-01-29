@@ -1,5 +1,3 @@
-# My Coding Journey 🚀
-
 ## Hi, I’m Blake! 👋
 
 I am nearly a year into my coding journey and it has been a blast to say the least! On top of working a full-time job, most of my days are spent learning about computer programming, algorithms, and working on side projects! I have loved every minute of it.
